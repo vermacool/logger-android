@@ -1,6 +1,5 @@
 package com.sked.logger
 
-import android.nfc.Tag
 import android.util.Log
 
 class Print {
